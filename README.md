@@ -36,12 +36,6 @@
   
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp; 
   
-  
-  ### Contribuições
- 
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=victorpessoa01&theme=gotham&hide_border=true&area=true)
-  
-  
   ### Minhas Visualizações
   
   <div align="center">
