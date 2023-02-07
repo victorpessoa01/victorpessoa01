@@ -1,6 +1,6 @@
 ### Quem Sou?
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!;Me+Chamo+José+Victor+Pessoa+Laurintino;Sou+Estudante+de+Desenvolvimento;Back-End+e+Front-End;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!!!;My+Name´s+José+Victor+Pessoa+Laurintino;I´m+Junior+Backend+Developer;Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
   
 ##
 <div align="center">
