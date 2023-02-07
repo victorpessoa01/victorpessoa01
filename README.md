@@ -38,10 +38,7 @@
   
   
   ### Contribuições
-  
-  ![Contribution](https://activity-graph.herokuapp.com/graph?username=victorpessoa01&theme=gotham&hide_border=true&area=true)
-  
-  
+ 
   ### Minhas Visualizações
   
   <div align="center">
