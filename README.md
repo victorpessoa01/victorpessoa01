@@ -3,7 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!!!;My+Name´s+Victor+Pessoa;I´m+Junior+Backend+and+Frontend+Developer;Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
   
 ##
-
+<div align="center">
+<a href="https://github.com/victorpesso01">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorpessoa01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01&layout=compact&langs_count=7&theme=dark"/>
+</div>
 ##
   
 ### Minhas skills:
