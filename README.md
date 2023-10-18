@@ -3,15 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!!!;My+Name´s+Victor+Pessoa;I´m+Backend+Developer;Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
 
 ###
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorpesssoa01&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorpessoa01&repo=convoychat" />
-</a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpessoa01\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/victorpessoa01/github-readme-stats)
-
+<div align="center" height="60" >
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpessoa01\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/victorpessoa01/github-readme-stats)
+  
+</div>
 ### 
 
 Minhas skills:
