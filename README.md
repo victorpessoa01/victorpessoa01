@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!!!;My+Name´s+Victor+Pessoa;I´m+Backend+Developer;Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
 
 ###
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpessoa01\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpessoa01\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
  
 Minhas skills:
   
@@ -34,11 +35,7 @@ Minhas skills:
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Victtop}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Victtop}/count.svg"/></p> 
 <br></div>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/victorpessoa01/github-readme-stats)
-
-<div  align="center" style="margin-bottom:100px">
-<img width=70% align="center" src="https://github-readme-stats-git-main-victorpessoa01.vercel.app/api/top-langs/?username=victorpessoa01&show_icons=true&theme=radical&layout=compact"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/victorpessoa01/github-readme-stats)
