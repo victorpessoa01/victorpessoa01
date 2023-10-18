@@ -8,7 +8,9 @@
 </div>
  &nbsp;
  &nbsp;
-### Minhas skills:
+### 
+
+Minhas skills:
   
 <div>
   <img align="center" alt="Victor-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
@@ -41,5 +43,5 @@
 <br></div>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats-git-main-victorpessoa01.vercel.app/api/top-langs/?username=victorpessoa01&show_icons=true&theme=radical&layout=compact"/>
+<img width=70% align="center" src="https://github-readme-stats-git-main-victorpessoa01.vercel.app/api/top-langs/?username=victorpessoa01&show_icons=true&theme=radical&layout=compact"/>
 </div>
