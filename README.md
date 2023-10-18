@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!!!;My+Name´s+Victor+Pessoa;I´m+Backend+Developer;Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
 
 ###
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=victorpessoa01\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=victorpessoa01\&show_icons=true\&theme=dark#gh-dark-mode-only)]
 ### 
 
 Minhas skills:
