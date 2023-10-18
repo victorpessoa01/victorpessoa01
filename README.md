@@ -4,7 +4,8 @@
 
 ###
 <div>
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=victorpessoa01\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)</div>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=victorpessoa01\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+</div>
 ### 
 
 Minhas skills:
