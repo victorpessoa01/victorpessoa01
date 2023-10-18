@@ -4,7 +4,7 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpessoa01\&show_icons=true\&theme=radical\&title_color=fff\&text_color=fff)
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=victorpessoa01\&show_icons=true\&theme=radical\&title_color=fff\&text_color=fff"
  
 Minhas skills:
   
