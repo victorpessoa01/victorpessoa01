@@ -5,7 +5,6 @@
 ###
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=victorpessoa01&theme=radical&mode=weekly"/>
-<img width=40% align="center" src="https://github-readme-stats-git-main-victorpessoa01.vercel.app/api/top-langs/?username=victorpessoa01&show_icons=true&theme=radical&layout=compact"/>
 </div>
  &nbsp;
  &nbsp;
@@ -40,3 +39,7 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Victtop}/count.svg" /></p> 
 <br></div>
+
+<div  align="center" style="margin-bottom:100px">
+<img width=40% align="center" src="https://github-readme-stats-git-main-victorpessoa01.vercel.app/api/top-langs/?username=victorpessoa01&show_icons=true&theme=radical&layout=compact"/>
+</div>
