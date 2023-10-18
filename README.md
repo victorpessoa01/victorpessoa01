@@ -4,7 +4,7 @@
 
 ###
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=victorpessoa01\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/victorpessoa01/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01\&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01\&layout=donut)](https://github.com/victorpessoa01/github-readme-stats)
 
 ### 
 
