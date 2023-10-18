@@ -1,4 +1,4 @@
-### Quem Sou?
+###Quem Sou?
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!!!;My+Name´s+Victor+Pessoa;I´m+Backend+Developer;Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
 
@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpessoa01\&show_icons=true\&theme=radical\&title_color=fff\&text_color=fff)
  
-### Minhas skills:
+###Minhas skills:
   
 <div>
   <img align="center" alt="Victor-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
@@ -22,7 +22,7 @@
   
   ##
   
-### Ferramentas
+###Ferramentas
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
@@ -31,11 +31,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
   
   
-### Sistemas 
+###Sistemas 
   
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp; 
   
-### Minhas Visualizações
+###Minhas Visualizações
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
