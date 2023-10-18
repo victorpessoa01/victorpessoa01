@@ -7,7 +7,8 @@
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=victorpessoa01&theme=radical&mode=weekly"/>
 <img width=40% align="center" src="https://github-readme-stats-git-main-victorpessoa01.vercel.app/api/top-langs/?username=victorpessoa01&show_icons=true&theme=radical&layout=compact"/>
 </div>
-  
+ &nbsp;
+ &nbsp;
 ### Minhas skills:
   
 <div>
