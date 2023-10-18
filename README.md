@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!!!;My+Name´s+Victor+Pessoa;I´m+Backend+Developer;Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
 
-###
+ ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpessoa01\&show_icons=true\&theme=radical\&title_color=fff\&text_color=fff)
  
-Minhas skills:
+### Minhas skills:
   
 <div>
   <img align="center" alt="Victor-FIGMA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
@@ -15,6 +15,8 @@ Minhas skills:
   <img align="center" alt="Victor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Victor-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 </div>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01\&theme=radical\&title_color=fff\&text_color=fff)](https://github.com/victorpessoa01/github-readme-stats)
   
   ##
   
@@ -37,5 +39,3 @@ Minhas skills:
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Victtop}/count.svg"/></p> 
 <br></div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01\&theme=radical\&title_color=fff\&text_color=fff)](https://github.com/victorpessoa01/github-readme-stats)
