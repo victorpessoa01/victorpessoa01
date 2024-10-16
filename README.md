@@ -1,6 +1,4 @@
-# Quem Sou?
-
- # Olá, sou Victor Pessoa 👋 | Hello, I'm Victor Pessoa 👋
+# Olá, sou Victor Pessoa 👋 | Hello, I'm Victor Pessoa 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!!!;My+Name´s+Victor+Pessoa;Backend+Developer;Always+Learning+New+Technologies!)](https://git.io/typing-svg)
 
@@ -8,7 +6,7 @@
 
 Sou um desenvolvedor católico, focado em projetos sacros, mas sempre aberto a explorar diferentes áreas de atuação. Atualmente, estou cursando Engenharia de Software na **Jala University** e minha principal prioridade é o desenvolvimento no backend, com o objetivo de me tornar Full Stack no futuro.
 
-Minhas principais tecnologias em uso são **Nuxt.js**, **TypeScript**, **JavaScript**, **Vue.js**, **PostgreSQL** e **Vuetify**. Tenho me dedicado a projetos pessoais, como a criação do meu portfólio profissional e o desenvolvimento de um futuro site para livros católicos online.
+Estou me desenvolvendo em tecnologias como **Nuxt.js**, **TypeScript**, **JavaScript**, **Vue.js**, **PostgreSQL** e **Vuetify**, adquirindo conhecimento prático através de projetos pessoais e estudos. Tenho trabalhado em projetos como meu portfólio profissional e o desenvolvimento de um futuro site de livros católicos online.
 
 ---
 
@@ -16,13 +14,12 @@ Minhas principais tecnologias em uso são **Nuxt.js**, **TypeScript**, **JavaScr
 
 I am a Catholic developer, focused on sacred projects but always open to exploring other areas. Currently, I am studying Software Engineering at **Jala University**, with my main priority being backend development, aiming to become Full Stack in the future.
 
-The main technologies I use are **Nuxt.js**, **TypeScript**, **JavaScript**, **Vue.js**, **PostgreSQL**, and **Vuetify**. I’ve been working on personal projects, such as building my professional portfolio and developing a future online platform for Catholic books.
+I am currently studying technologies such as **Nuxt.js**, **TypeScript**, **JavaScript**, **Vue.js**, **PostgreSQL**, and **Vuetify**, gaining hands-on experience through personal projects and continuous learning. I’ve been working on my professional portfolio and a future online platform for Catholic books.
 
 ---
 
-## 🚀 Minhas Skills | My Skills:
+## 🚀 Tecnologias que estou estudando | Technologies I'm Learning:
 
-**Backend e Ferramentas de Desenvolvimento | Backend and Development Tools**
 <div>
   <img align="center" alt="Victor-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Victor-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
@@ -57,4 +54,3 @@ The main technologies I use are **Nuxt.js**, **TypeScript**, **JavaScript**, **V
 <br><p align="centre"><b>Contador de Visitantes | Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorpessoa01}/count.svg"/></p> 
 <br></div>
-
