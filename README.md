@@ -40,11 +40,11 @@ I am currently studying technologies such as **Nuxt.js**, **TypeScript**, **Java
 
 ## 🌱 Projetos Recentes | Recent Projects
 
-- **Portfólio Profissional** - Um projeto pessoal para destacar minhas habilidades e experiências.  
-  **Professional Portfolio** - A personal project showcasing my skills and experiences.
+- **Portfólio Profissional** - Um projeto pessoal para destacar minhas habilidades e experiências - Em progresso...  
+  **Professional Portfolio** - A personal project showcasing my skills and experiences - In progress...
 
-- **Site de Livros Católicos Online** - Em desenvolvimento, será uma plataforma para livros católicos digitais.  
-  **Online Catholic Books Website** - In development, this will be a platform for digital Catholic books.
+- **Site de Livros Católicos Online** - Em desenvolvimento, será uma plataforma para livros católicos digitais - Em progresso...  
+  **Online Catholic Books Website** - In development, this will be a platform for digital Catholic books - In progress... 
 
 ---
 
