@@ -8,7 +8,7 @@ Sou um desenvolvedor católico, focado em projetos sacros, mas sempre aberto a e
 
 Estou me desenvolvendo em tecnologias como **Nuxt.js**, **TypeScript**, **JavaScript**, **Vue.js**, **PostgreSQL** e **Vuetify**, adquirindo conhecimento prático através de projetos pessoais e estudos. Tenho trabalhado em projetos como meu portfólio profissional e o desenvolvimento de um futuro site de livros católicos online.
 
----
+
 
 ## English 🇺🇸
 
