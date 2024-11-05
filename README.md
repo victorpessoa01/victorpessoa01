@@ -30,13 +30,15 @@ I am currently studying technologies such as **Nuxt.js**, **TypeScript**, **Java
 
 ---
 
+<div align="center">
 ## 📈 Estatísticas GitHub | GitHub Stats
 
-<div align="center">
-  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=victorpessoa01&show_icons=true&theme=radical&title_color=fff&text_color=fff" />
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01&layout=compact&langs_count=7&theme=radical&title_color=fff&text_color=fff" />
+  <img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=victorpessoa01&show_icons=true&theme=radical&title_color=fff&text_color=fff" />
+  <img width="30%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01&layout=compact&langs_count=7&theme=radical&title_color=fff&text_color=fff" />
 </div>
 
+
+<div align="center">
 ## 🌱 Projetos Recentes | Recent Projects
 
 - **Portfólio Profissional** - Um projeto pessoal para destacar minhas habilidades e experiências - Em progresso...  
@@ -46,10 +48,12 @@ I am currently studying technologies such as **Nuxt.js**, **TypeScript**, **Java
   **Online Catholic Books Website** - In development, this will be a platform for digital Catholic books - In progress... 
 
 ---
-
-## 👀 Minhas Visualizações | My Views
+</div>
 
 <div align="center">
+## 👀 Minhas Visualizações | My Views
+
 <br><p align="centre"><b>Contador de Visitantes | Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorpessoa01}/count.svg"/></p> 
-<br></div>
+<br>
+</div>
