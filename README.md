@@ -32,10 +32,8 @@ I am currently studying technologies such as **Nuxt.js**, **TypeScript**, **Java
 
 ## 📈 Estatísticas GitHub | GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpessoa01\&show_icons=true\&theme=radical\&title_color=fff\&text_color=fff)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01\&theme=radical\&title_color=fff\&text_color=fff)](https://github.com/victorpessoa01/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01\&theme=radical\&title_color=fff\&text_color=fff)](https://github.com/victorpessoa01/github-readme-stats)
+<img width="30%" align="rigth" src="https://github-readme-stats.vercel.app/api?username=victorpessoa01\&show_icons=true\&theme=radical\&title_color=fff\&text_color=fff" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa0&layout=compact&langs_count=7&theme=dark"/>
 
 ---
 
