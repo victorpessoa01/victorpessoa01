@@ -47,19 +47,17 @@ I am currently studying technologies such as **Nuxt.js**, **TypeScript**, **Java
   <img width="28%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01&layout=compact&langs_count=7&theme=radical&title_color=fff&text_color=fff" />
   <img width="37%" align="left" src="https://github-readme-stats.vercel.app/api?username=victorpessoa01&show_icons=true&theme=radical&title_color=fff&text_color=fff" />
 </div>
-<br>
+<br clear="both">
 
 ---
 
 ## 👀 Minhas Visualizações | My Views
 
 <div align="center">
-<br>
 <p align="centre">
   <b>Contador de Visitantes | Visitors Count</b>
 </p>  
 <p align="center">
   <img align="center" src="https://profile-counter.glitch.me/{victorpessoa01}/count.svg"/>
 </p> 
-<br>
 </div>
