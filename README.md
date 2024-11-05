@@ -35,7 +35,8 @@ I am currently studying technologies such as **Nuxt.js**, **TypeScript**, **Java
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorpessoa01\&show_icons=true\&theme=radical\&title_color=fff\&text_color=fff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01\&theme=radical\&title_color=fff\&text_color=fff)](https://github.com/victorpessoa01/github-readme-stats)
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp-sena-dev&layout=compact&langs_count=7&theme=dark"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01\&theme=radical\&title_color=fff\&text_color=fff)](https://github.com/victorpessoa01/github-readme-stats)
+
 ---
 
 ## 🌱 Projetos Recentes | Recent Projects
