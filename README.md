@@ -32,10 +32,10 @@ I am currently studying technologies such as **Nuxt.js**, **TypeScript**, **Java
 
 ## 📈 Estatísticas GitHub | GitHub Stats
 
-<img width="30%" align="rigth" src="https://github-readme-stats.vercel.app/api?username=victorpessoa01\&show_icons=true\&theme=radical\&title_color=fff\&text_color=fff" />
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa0&layout=compact&langs_count=7&theme=dark"/>
-
----
+<div align="center">
+  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api?username=victorpessoa01&show_icons=true&theme=radical&title_color=fff&text_color=fff" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01&layout=compact&langs_count=7&theme=radical&title_color=fff&text_color=fff" />
+</div>
 
 ## 🌱 Projetos Recentes | Recent Projects
 
