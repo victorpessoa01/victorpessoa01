@@ -44,7 +44,7 @@ I am currently studying technologies such as **Nuxt.js**, **TypeScript**, **Java
 
 <div align="center">
   <img width="38%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa01&layout=compact&langs_count=7&theme=radical&title_color=fff&text_color=fff" />
-  <img width="47%" align="center" src="https://github-readme-stats.vercel.app/api?username=victorpessoa01&show_icons=true&theme=radical&title_color=fff&text_color=fff" />
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=victorpessoa01&show_icons=true&theme=radical&title_color=fff&text_color=fff" />
 </div>
 <br clear="both">
 
