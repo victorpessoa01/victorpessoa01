@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!!!;My+Name´s+Victor+Pessoa;Frontend+Developer;Always+Learning+New+Technologies!)](https://git.io/typing-svg)
 
-## English 🇺🇸
+-
 
 Currently, I am studying Software Engineering at **Jala University**, with my main priority being frontend development, aiming to become Full Stack in the future.
 
 
-
+-
 ## 🚀 Technologies I'm Learning:
 
 <div>
@@ -16,7 +16,7 @@ Currently, I am studying Software Engineering at **Jala University**, with my ma
 </div>
 
 
-
+-
 ## 📈 Estatísticas GitHub | GitHub Stats
 
 <div align="center">
@@ -27,7 +27,7 @@ Currently, I am studying Software Engineering at **Jala University**, with my ma
 
 
 
-
+-
 ## 👀 My Views
 
 <div align="center">
